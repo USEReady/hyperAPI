@@ -72,7 +72,7 @@ def uploadHyperFileToTableauServer(hyper_file_path):
     server_url = 'https://prod-useast-a.online.tableau.com/'
     site_id= 'useready'  # Optional, if using a specific site
     mytoken_name='restapi'
-    mytoken_secret='secret'
+    mytoken_secret='serret'
     project_id = 'id'
     ###Config part optimize later  
     
