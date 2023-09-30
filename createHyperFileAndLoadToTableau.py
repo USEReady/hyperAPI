@@ -72,8 +72,8 @@ def uploadHyperFileToTableauServer(hyper_file_path):
     server_url = 'https://prod-useast-a.online.tableau.com/'
     site_id= 'useready'  # Optional, if using a specific site
     mytoken_name='restapi'
-    mytoken_secret='myoBPH1BTpqO6Eo7Gvb3qw==:6oCCLmF6gWYmE2IiIl5go1TqPJimTORy'
-    project_id = '308b912d-adff-4c80-bf2f-d4a8f9bf06d8'
+    mytoken_secret='secret'
+    project_id = 'id'
     ###Config part optimize later  
     
     # Create a server object and establish the connection
